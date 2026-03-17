@@ -215,3 +215,54 @@ In this chapter, we learned how to:
 
 These concepts are essential for displaying objects and graphics in a
 game.
+
+# Lab Activity: Drawing a Simple Scene in Pygame
+
+## Objective
+The objective of this activity is to practice drawing objects on the screen using Pygame. In this exercise, students will apply their knowledge of surfaces, coordinates, shapes, RGB colors, and screen updates to recreate a simple scene.
+
+## Instructions
+
+1. Observe the sample output image provided by the instructor.
+
+2. Create a Pygame program that reproduces the same scene shown in the screenshot.
+
+3. Your program must create a game window with a size of **800 × 600 pixels**.
+
+4. Use RGB colors to create the background and the objects in the scene.
+
+5. Draw the following objects using Pygame drawing functions:
+   - A sky background
+   - A green ground
+   - A sun
+   - A house
+   - A door
+   - A window
+
+6. Use the coordinate system properly to position the objects so that they match the instructor's sample output.
+
+7. Make sure the program updates the display so the shapes and objects appear in the game window.
+
+8. The program should continue running until the user closes the window.
+
+## Submission Requirements
+
+After completing the activity, submit the following:
+
+- A screenshot of the program output.
+- The Python source code file (.py) of your program.
+
+## Reminder
+
+- Use proper RGB color values.
+- Ensure that the objects appear in the correct positions.
+- Your output should closely match the instructor's sample image.
+
+## Optional Challenge
+
+Students who finish early may enhance their scene by adding extra objects such as:
+
+- A tree
+- A cloud
+- Another window in the house
+- Any additional object that improves the scene
