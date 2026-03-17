@@ -239,13 +239,6 @@ The objective of this activity is to practice drawing objects on the screen usin
 7. Make sure the program updates the display so the shapes and objects appear in the game window.
 8. The program should continue running until the user closes the window.
 
-## Submission Requirements
-
-After completing the activity, submit the following:
-
-- A screenshot of the program output.
-- The Python source code file (.py) of your program.
-
 ## Reminder
 
 - Use proper RGB color values.
